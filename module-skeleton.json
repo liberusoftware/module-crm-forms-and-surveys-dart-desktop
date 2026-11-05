@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-forms-and-surveys-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-forms-and-surveys",
+  "presentation": "dart-desktop",
+  "package": "module_crm_forms_and_surveys_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/forms-and-surveys.md",
+  "presentationPlan": "projects/crm/features/forms-and-surveys.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
